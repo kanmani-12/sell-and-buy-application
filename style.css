@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background: #eee;
+}
+
+.box {
+  background: white;
+  width: 550px;
+  margin: 30px auto;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+input,
+select {
+  padding: 10px;
+  margin: 7px;
+  width: 90%;
+}
+
+.product {
+  border: 1px solid #aaa;
+  padding: 15px;
+  margin: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+}
